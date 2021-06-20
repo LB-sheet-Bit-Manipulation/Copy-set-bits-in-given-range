@@ -23,10 +23,6 @@ SC --> O(1)
 
 */
 
-//Issue:
-//GFG ki site par iska second approach bhi hai but wo nhi samza
-//Try for more efficient solution if any
-
 #include<iostream>
 using namespace std;
 
